@@ -1,2 +1,5 @@
-# image-hosting
-The image hosting by bxx-114514.
+# 说明 Introduction
+
+这是用于本人 Markdown 文档的图床。
+
+This is the image hosting for my Markdown documents.
